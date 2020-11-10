@@ -23,7 +23,6 @@ import com.example.healthCareManagement.dto.DependentDto;
 import com.example.healthCareManagement.entity.Dependent;
 import com.example.healthCareManagement.exception.ResourceNotFoundException;
 import com.example.healthCareManagement.service.DependentService;
-import com.mongoRest.controller.StoreDetailsController;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
