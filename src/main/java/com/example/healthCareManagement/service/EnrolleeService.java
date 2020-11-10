@@ -18,7 +18,6 @@ import com.example.healthCareManagement.dao.EnrolleeDao;
 import com.example.healthCareManagement.dto.EnrolleeDto;
 import com.example.healthCareManagement.entity.Enrollee;
 import com.example.healthCareManagement.exception.*;
-import com.mongoRest.impl.StoreImpl;
 
 @Service
 public class EnrolleeService {
